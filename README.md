@@ -10,4 +10,6 @@ This includes following:
 
 **3. Optimizers:** all optimizers functions explained like sgd, adagrad, rmsprop, adam loss.
 
+**4. ActivationFunctions:** all activation functions covered in detail.
+
 
