@@ -12,4 +12,6 @@ This includes following:
 
 **4. ActivationFunctions:** all activation functions covered in detail.
 
+**4. PerformanceMetrics:** all performance metrics covered in detail.
+
 
